@@ -264,7 +264,226 @@
       ],
       "img": ""
     },
+    {
+      "species": "Apocrita sp.",
+      "common": "(Ants, Wasps, and Bees)",
 
+      "summary": "Apocrita sp. is the name for a class of insects distinguished by their social behaviour and stinging ability, which includes wasps, bees, and ants.",
+      "description": [
+        "These insects are distinguished by their unique body form, which includes a tiny waist and the capacity to sting in order to defend oneself or to prey."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Aprosmictus erythropterus",
+      "common": "Red-winged parrot",
+
+      "summary": " The Red-winged Parrot, Aprosmictus erythropterus, is a brightly coloured parrot species distinguished by its vivid red wings.",
+      "description": [
+        "These Australian native parrots are well-known for their eye-catching looks and gregarious personalities; in their natural environment, they are frequently observed in flocks. Eagle with a wedge-shaped tail, Aquila audax"
+      ],
+      "img": ""
+    },
+    {
+      "species": "Aquila audax",
+      "common": "Wedge-tailed Eagle",
+
+      "summary": " Australia's largest predatory bird is the Aquila audax, or Wedge-tailed Eagle, named for its unusual wedge-shaped tail feathers.",
+      "description": [
+        "These Australian eagles are skilled hunters, preying on small mammals and birds, and revered for their impressive size and hunting prowess."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Artamus cinereus",
+      "common": "Black-faced Woodswallow",
+
+      "summary": " the black facial markings of the Artamus cinereus, or Black-faced Woodswallow, are what distinguish this bird species.",
+      "description": [
+        "Known for their unique sounds and impressive aerial stunts, these woodswallows are frequently spotted in flocks perched atop branches or in flight."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Artamus cyanopterus",
+      "common": "Dusky Woodswallow",
+
+      "summary": "The dusky woodswallow, or Artamus cyanopterus, is a species of bird having blue wings and dusky plumage.",
+      "description": [
+        "Distinguished by their elegant look and exquisite flying patterns, these woodswallows are expert insect hunters."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Artamus minor",
+      "common": "Little Woodswallow",
+
+      "summary": "The Artamus minor, often known as the Little Woodswallow, is a small species of bird that lives in Australia.",
+      "description": [
+        "The woodswallows are little birds that are well-known for their gregarious behaviour in flocks and their diet of insects."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Artamus superciliosus",
+      "common": "White-browed Woodswallow",
+
+      "summary": "the White-browed Woodswallow, or Artamus superciliosus, is a species of bird identified by the white patterns on its eyebrows.",
+      "description": [
+        "These woodswallows are found in open woodlands all around Australia, and they have beautiful flying patterns."
+      ],
+      "img": ""
+    },
+    {
+      "species": "encaustica Atrapsalta",
+      "common": "Black Squeaker",
+
+      "summary": "The Black Squeaker, or Atrapsalta encaustica, is a species of cicada distinguished by its unique call.",
+      "description": [
+        "During the breeding season, these cicadas generate high-pitched calls that contribute to the distinctive sounds of summer in Australia."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Auscala spinosa",
+      "common": "Creaking Branch Cicada",
+
+      "summary": "the Auscala spinosa, often known as the Creaking Branch Cicada, is a species of cicada that gets its name from its distinct creaking noise.",
+      "description": [
+        "During the warmer months, these cicadas are easily identified by their booming calls that reverberate through woodlands."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Austrochaperina pluvialis",
+      "common": "Rain Whistling Frog",
+
+      "summary": "Austrochaperina pluvialis, often known as the Rain Whistling Frog, is a species of frog distinguished by its vocalisations during the rainy season.",
+      "description": [
+        "These frogs are native to Australia and contribute to the ecosystem with their characteristic whistling sounds that coincide with rainy seasons."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Austronomus australis",
+      "common": "White-striped Free-tailed Bat",
+
+      "summary": "The White-striped Free-tailed Bat, Austronomus australis, is a species of bat distinguished by its characteristic white stripes on its tail.",
+      "description": [
+        "These bats are nocturnal insectivores that inhabit the woods and caverns of Australia. They help reduce pests by eating on various insects."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Aves sp",
+      "common": "Bird",
+
+      "summary": "This is a broad group of birds that are distributed throughout the world in a variety of habitats.",
+      "description": [
+        "Birds are a diverse group of animals with special traits that are suited to various habitats and play important roles in ecosystems."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Aythya Australis",
+      "common": "White-eyed Duck",
+
+      "summary": "the White-eyed Duck, or Aythya australis, is a species of duck known for its white eye markings.",
+      "description": [
+        "These ducks are found in marshes and other bodies of water in Australia. They have unique habits, like diving for food and showing off during courtship."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Barnardius zonarius",
+      "common": "Australian Ringneck",
+
+      "summary": "The Australian Ringneck Parrot, or Barnardius zonarius, is a vibrant species of parrot with unique ring patterns around its neck.",
+      "description": [
+        "Known for their intelligence and ability to adapt to a variety of Australian settings, these parrots display playful behaviours."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Biziura lobata",
+      "common": "Musk Duck",
+
+      "summary": "The Australian waterfowl species known as the Biziura lobata, or Musk Duck, is named for its musky scent that it emits during the breeding season.",
+      "description": [
+        "Musk Ducks have distinctive features, such as lobed feet that are designed for swimming and diving in freshwater habitats."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Burhinus grallarius",
+      "common": "Bush Stone-curlew",
+
+      "summary": "The Bush Stone-curlew, or Burhinus grallarius, is a species of ground-dwelling bird that uses cryptic plumage for camouflage.",
+      "description": [
+        "These nocturnal birds are found in Australia's scrubland ecosystems and are distinguished by their unique nighttime sounds, which are similar to human wails."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Cacatua galerita",
+      "common": "Sulphur-Crested Cockatoo",
+
+      "summary": "With its vivid yellow crests, the Sulphur-Crested Cockatoo, also known as the Cacatua galerita, is a well-known Australian parrot species.",
+      "description": [
+        "These cockatoos are gregarious birds that have complex social systems and powerful vocalisations. They are frequently observed in groups engaging in intricate courtship rituals."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Cacatua sanguinea",
+      "common": "Little Corella",
+
+      "summary": "Throughout Australia's arid regions, the smaller Cacatua sanguinea, sometimes known as Little Corella, cockatoo species can be found.",
+      "description": [
+        "Little Corellas form enormous flocks that can be seen during their playful antics as seed dispersers."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Cacomantis flabelliformis",
+      "common": "Fan-Tailed Cuckoo",
+
+      "summary": "The Fan-Tailed Cuckoo, or Cacomantis flabelliformis, is a species of cuckoo distinguished by its fan-shaped tail feathers.",
+      "description": [
+        "During courtship rituals, these cuckoos display their distinctive fan-tail displays and lay their eggs in the nests of other bird species. They are considered brood parasites."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Cacomantis variolosus",
+      "common": "Brush Cuckoo",
+
+      "summary": "In the woodlands of Australia, there is another species of cuckoo, called the Brush Cuckoo (Cacomantis variolosus).",
+      "description": [
+        "The Brush Cuckoo is a medium-sized bird with a long tail, bent bill, and slender body. Its feathers are mostly brown with black and white stripes. This species mostly consumes caterpillars and insects for food."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Caelifera sp.",
+      "common": "Grasshopper",
+
+      "summary": "An order of grasshoppers known as Caelifera sp. is a suborder of the order Orthoptera called Caelifera. These insects are well-known for having strong rear legs that allow them to leap great distances.",
+      "description": [
+        "Grasshoppers belonging to the suborder Caelifera are distinguished by their unique antennae, robust mandibles used for devouring plant matter, and herbivorous diet.As both herbivores that can have an impact on plant populations and as prey for a variety of species, they are essential to ecosystems."
+      ],
+      "img": ""
+    },
+    {
+      "species": "Caligavis chrysops",
+      "common": "Yellow-faced Honeyeater",
+
+      "summary": "Known by its scientific name, Caligavis chrysops, the Yellow-faced Honeyeater is a tiny bird that is indigenous to eastern Australia. It has a yellow patch on its face, which gave rise to its name. It also has beautiful cries.",
+      "description": [
+        "This honeyeater species is distinguished by its yellow face, olive-green upperparts, and white underparts. The main food sources for Yellow-faced Honeyeaters are fruits, insects, and nectar. They are essential to pollination and are frequently seen in gardens, woodlands, and forests."
+      ],
+      "img": ""
+    }
 
 
 
