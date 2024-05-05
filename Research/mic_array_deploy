@@ -1,0 +1,20 @@
+##R&D Microphone Array Deployment(Notes)
+
+#-Testing Approaches
+// 1) Power Consumption Testing: Evaluate the power consumption of the microphone array to ensure it can operate for extended periods in the field without frequent battery replacements.
+
+// 2) Environmental Test: Ensure the microphone array can withstand the harsh environmental conditions of the wildlife, such as temperature variations, humidity, and weather conditions.
+
+// 3) Noise Reduction Testing: Evaluate the microphone array's ability to reduce background noise and capture clear animal sounds.
+
+// 4) Sensitivity Testing: Assess the microphone array's sensitivity to capture a wide range of animal vocalizations, from low-frequency rumbles to high-pitched chirps.
+
+// 5) Durability Testing: Verify the microphone array's resistance to physical damage, such as impacts, vibrations, and weathering.
+
+#-Output Format Types
+//The microphone array should be able to support the following output formats:
+// 1) WAV (Waveform Audio File Format)
+// 2) MP3 (MPEG-1 Audio Layer III)
+// 3) FLAC (Free Lossless Audio Codec)
+
+//These formats can be widely used for audio recording and can be easily processed and analyzed for animal sound identification and classification.
