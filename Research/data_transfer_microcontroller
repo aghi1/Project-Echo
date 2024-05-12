@@ -1,0 +1,25 @@
+//Summary of data transfer between microcontrollers
+To capture audio from animals/birds in the wild and transfer data reliably, here are some potential solutions:
+--Microphone/Sensor to Microcontroller
+ Use a digital microphone to stream audio data directly to the microcontroller's. This avoids the bottleneck of analog-to-digital conversion and provides high-quality audio capture.
+
+ For analog microphones, use a microcontroller with a high-resolution analog-to-digital converter (ADC) and sufficient memory to buffer audio samples. Oversampling and decimation can improve effective resolution.
+
+ Implement data compression on the microcontroller (e.g. MP3, Opus) to reduce bandwidth requirements for transmission.
+
+--Microcontroller to Server
+ Use a microcontroller with built-in WiFi or cellular connectivity to stream audio data directly to the server over the internet.
+
+ If internet connectivity is unavailable, write audio files to a removable storage device (e.g. SD card) which can be physically collected and transferred to the server periodically.
+ Implement a local wireless mesh network between multiple microcontroller nodes, routing audio data through the mesh to a central gateway device with internet connectivity.
+
+ Use long-range radio protocols like LoRa or Sigfox to transmit compressed audio data from remote locations to a central receiver connected to the server.
+
+--EXTRAS
+To ensure reliable data flow:
+Implement error detection and correction mechanisms like checksums or forward error correction.
+Buffer data on the microcontroller to handle intermittent connectivity issues.
+Use power-efficient techniques like duty cycling to extend battery life for remote deployments.
+
+Potential bottlenecks include microcontroller processing power, memory, bandwidth limitations, and power constraints which can be addressed through careful hardware selection, software optimization, and communication protocol choices.
+//END
